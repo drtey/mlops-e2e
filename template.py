@@ -4,7 +4,7 @@ import logging
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s: %(message)s:')
 
-project_name = "mlops-e2e"
+project_name = "mlopsE2E"
 
 
 list_of_files = [
